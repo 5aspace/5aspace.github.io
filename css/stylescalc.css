@@ -6,7 +6,7 @@ hr.light{border-color:#fff;}
 a{color:#86bdff;-webkit-transition:all .35s;-moz-transition:all .35s;transition:all .35s;}
 a:hover,
 a:focus{color:#5075cc;outline:0;}
-h1,h3{font-family:'Questrial','Helvetica Neue',Arial,sans-serif;text-shadow:0 0 0px #000000, 0 0 0px #000000, 0 0 0px #000000, 0 0 0px #000000, 1px 1px 0px #000000, 1px 1px 0px #000000, 1px 1px 0px #000000, 1px 1px 15px #000000;color:#d3d3d3}
+h1,h3{font-family:'Questrial','Helvetica Neue',Arial,sans-serif;text-shadow:0 0 0px #000000, 0 0 0px #000000, 0 0 0px #000000, 0 0 0px #000000, 1px 1px 0px #000000, 1px 1px 0px #000000, 1px 1px 0px #000000, 1px 1px 15px #000000;}
 h2,h4,h5,h6{font-family:'Questrial','Helvetica Neue',Arial,sans-serif;}
 p{font-size:17px;line-height:1.7;margin-bottom:0px;}
 .wide-space{letter-spacing:1.6px;}
